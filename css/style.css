@@ -586,6 +586,17 @@ color: #2c3e50;
 #footer a:hover {
 	color: #526cbb;
 }
+#buttondownloadcv{
+    display: inline-block;
+    color: white;
+    background-color: #6B84C7;
+    text-align: center;
+}
+#cvdownload{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
 
 /* Media Queries */
 @media(min-width:768px) {
